@@ -1,4 +1,4 @@
-package com.example.reflecty_slideshow;
+package com.example.flutter_test_work;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
